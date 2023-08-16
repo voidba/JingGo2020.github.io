@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>功能改进 on 行是知之始，知是行之成</title>
+    <link>http://jinggo2020.github.io/categories/%E5%8A%9F%E8%83%BD%E6%94%B9%E8%BF%9B/</link>
+    <description>Recent content in 功能改进 on 行是知之始，知是行之成</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>wangyj0898@126.com (JingGo)</managingEditor>
+    <webMaster>wangyj0898@126.com (JingGo)</webMaster>
+    <lastBuildDate>Wed, 16 Aug 2023 10:33:27 +0800</lastBuildDate><atom:link href="http://jinggo2020.github.io/categories/%E5%8A%9F%E8%83%BD%E6%94%B9%E8%BF%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>程序员职业素养</title>
+      <link>http://jinggo2020.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 16 Aug 2023 10:33:27 +0800</pubDate>
+      <author>wangyj0898@126.com (JingGo)</author>
+      <guid>http://jinggo2020.github.io/posts/my-first-post/</guid>
+      <description>第一篇 程序员职业素养 如果你的网站需要指定皮肤，需要在 config 文件中指定 theme 。因为我的脚本在生成静态文件时并不会指定皮肤。 一、下面列出了每个专业软件开</description>
+    </item>
+    
+    <item>
+      <title>Hugo 自动化部署脚本 deploy.py</title>
+      <link>http://jinggo2020.github.io/2015/11/21/hugo-deploy-script/</link>
+      <pubDate>Sat, 21 Nov 2015 17:48:04 +0800</pubDate>
+      <author>wangyj0898@126.com (JingGo)</author>
+      <guid>http://jinggo2020.github.io/2015/11/21/hugo-deploy-script/</guid>
+      <description>&lt;p&gt;之前我写了一个脚本用来自动部署我的 Hugo 博客，今天闲来无事完善了一下这个脚本，使这个脚本更加通用一些。&lt;/p&gt;
+&lt;p&gt;脚本路径：&lt;a href=&#34;https://github.com/coderzh/coderzh-hugo-blog/blob/master/deploy.py&#34;&gt;https://github.com/coderzh/coderzh-hugo-blog/blob/master/deploy.py&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
